@@ -1,4 +1,4 @@
-# 💱 Conversor de Monedas - Java 21
+* Conversor de Monedas - Java 21
 
 Aplicación de consola desarrollada en **Java 21 (LTS)** que permite
 convertir entre diferentes monedas latinoamericanas y el dólar
@@ -7,7 +7,7 @@ API externa.
 
 ------------------------------------------------------------------------
 
-## 🚀 Funcionalidades
+* Funcionalidades
 
 -   Conversión entre USD ⇄ ARS, BOB, BRL, CLP y COP
 -   Consumo de API REST usando HttpClient
@@ -18,7 +18,7 @@ API externa.
 
 ------------------------------------------------------------------------
 
-## 🏗️ Arquitectura del Proyecto
+* Arquitectura del Proyecto
 
 com.alura.conversordemonedas.principal │ ├── ConversorDeMonedasApp →
 Punto de entrada (main) ├── MenuConversor → Menú e interacción con el
@@ -26,7 +26,7 @@ usuario └── ApiService → Consumo de la API
 
 ------------------------------------------------------------------------
 
-## 🛠️ Tecnologías Utilizadas
+* Tecnologías Utilizadas
 
 -   Java 21 (LTS)
 -   java.net.http.HttpClient
@@ -35,25 +35,8 @@ usuario └── ApiService → Consumo de la API
 
 ------------------------------------------------------------------------
 
-## 💻 Requisitos
+* Requisitos
 
 -   JDK 21 instalado
 -   IDE compatible (IntelliJ IDEA recomendado)
 -   Conexión a internet
-
-------------------------------------------------------------------------
-
-## 📚 Aprendizajes Aplicados
-
--   Consumo de APIs REST en Java
--   Manejo de JSON
--   Separación de responsabilidades
--   Buenas prácticas de programación
--   Formateo internacional de moneda
-
-------------------------------------------------------------------------
-
-## 👨‍💻 Autor
-
-Santiago\
-Estudiante de Ingeniería Mecatrónica
